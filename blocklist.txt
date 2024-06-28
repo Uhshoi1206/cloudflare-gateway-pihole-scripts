@@ -1,6 +1,3 @@
-# AdguardDNS
+# Syntax: Domains (including possible subdomains)
 #
-# Last converted - Mon, 24 Jun 2024 22:43:34 +0100
-#
-
-0.0.0.0 gamevui.vn
+gamevui.vn
